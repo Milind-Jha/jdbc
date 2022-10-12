@@ -28,6 +28,4 @@ public class Main{
 
     }
 }
-class KoiBhi  extends MySystem {
 
-}
